@@ -4,7 +4,7 @@ An interactive quiz application built with **React 19**. Test your knowledge of 
 
 ### 🔗 Live Preview
 
-👉 [https://react-quiz-frantisek.netlify.app](https://quiz-react-app-web.netlify.app/)
+👉 [https://react-quiz-app.netlify.app](https://quiz-react-app-web.netlify.app/)
 
 ---
 
